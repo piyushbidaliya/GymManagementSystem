@@ -1,4 +1,4 @@
-This project is an Invoice Management System built with React and Firebase. The application allows users to create, manage, and download invoices. Additionally, it includes user authentication and admin functionalities.
+This project is an Gym Management System built with React and Firebase. The application allows users to create, manage, and download invoices, add, delete, update user. Additionally, it includes user authentication and admin functionalities.
 Features
 User Authentication: Users can sign up, log in, and access the application securely.
 Invoice Creation: Admins can create invoices with detailed line items.
