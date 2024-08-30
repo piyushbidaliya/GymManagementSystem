@@ -6,7 +6,7 @@ Invoice Management: View, download, and delete invoices.
 Responsive Design: Works across different devices and screen sizes.
 Installation
 Clone the repository:
-git clone https://github.com/your-username/invoice-management-system.git
+git clone https://github.com/piyushbidaliya/GymManagementSystem.git
 cd GymMmanagementSystem
 Install dependencies:
 npm install
